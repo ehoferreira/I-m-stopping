@@ -4,7 +4,8 @@
   "description": "I'm here to learn by making mistakes, getting angry and gaining knowledge",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "next dev"
   },
   "author": "Miguel",
   "license": "MIT",
